@@ -1,3 +1,4 @@
+package ArrayList;
 import java.util.Arrays;
 
 public class ArrayListConsucutiveCount {

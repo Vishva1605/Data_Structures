@@ -1,3 +1,4 @@
+package ArrayList;
 import java.util.*;
 public class FindAllDuplicatesInList {
     public static void main(String[] args){
